@@ -1,4 +1,5 @@
 # ShippingPorts_LP
+Data set source: https://www.kaggle.com/datasets/sanjeetsinghnaik/ship-ports?resource=download 
 Objective: Using linear programming, we will attempt optimize the load of vessels across ports. 
 
 Balance Load Across Ports: If the dataset includes multiple ports within the same country or region, an objective could be to balance the load of incoming and outgoing vessels among these ports to avoid overloading a single port.
